@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Emergent Vacuum Response Theory (EVRT): Consolidated Research Framework"
+message: "If you use this work, please cite it using the DOI below."
+authors:
+  - family-names: "Sangalang"
+    given-names: "Erick S."
+date-released: 2026
+version: "1.0.0"
+doi: 10.5281/zenodo.8475
+url: https://github.com/HitojinKyoshi/evrt-research
