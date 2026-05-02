@@ -16,6 +16,26 @@ A Constrained Phenomenological Framework with Experimental Pathways**
 
 ---
 
+## 📄 Phase II — Constraint & Validation
+
+**Systematic Artifact Analysis and Null Hypothesis Stress Testing for Emergent Vacuum Response Experiments**
+
+> A falsification-focused analysis of experimental artifacts and control methodologies in EVRT testing.
+
+📥 [Download PDF](https://zenodo.org/records/19983227)  
+🔗 DOI: 10.5281/zenodo.19983226
+
+---
+
+This work extends the EVRT capstone framework by systematically identifying and eliminating false-positive mechanisms in experimental investigations.
+
+It provides:
+
+- detailed analysis of thermal, mechanical, electromagnetic, and EHD artifacts
+- explicit discrimination criteria for valid signals
+- structured null hypothesis stress-testing methodology
+- control strategies for experimental validation
+
 ## 🔬 Overview
 
 This repository contains a consolidated research program investigating whether structured, nonequilibrium electromagnetic systems may exhibit measurable stress-energy effects beyond conventional interpretations.
