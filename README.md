@@ -1,5 +1,8 @@
 # EVRT — Emergent Vacuum Response Theory
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
+
 A reproducible research framework investigating whether structured, nonequilibrium electromagnetic systems may exhibit measurable stress-energy effects beyond conventional interpretations.
 
 ---
