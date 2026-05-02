@@ -1,18 +1,33 @@
-# EVRT — Emergent Vacuum Response Theory
-
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
 
 A reproducible research framework investigating whether structured, nonequilibrium electromagnetic systems may exhibit measurable stress-energy effects beyond conventional interpretations.
+
+# EVRT — Emergent Vacuum Response Theory
+
+## 📄 Capstone Paper
+
+**Emergent Vacuum Response in Nonequilibrium Electromagnetic Systems:  
+A Constrained Phenomenological Framework with Experimental Pathways**
+
+> A constrained, falsifiable framework for testing potential emergent electromagnetic effects.
+
+📥 [Download PDF](https://zenodo.org/records/19981661/files/EMERGE~1.PDF?download=1)  
+🔗 DOI: https://doi.org/10.5281/zenodo.8475
 
 ---
 
 ## 🔬 Overview
 
+This repository contains a consolidated research program investigating whether structured, nonequilibrium electromagnetic systems may exhibit measurable stress-energy effects beyond conventional interpretations.
+
 Emergent Vacuum Response Theory (EVRT) is a phenomenological framework designed to explore whether asymmetric electromagnetic field configurations, resonant structures, and nonequilibrium conditions could produce small residual forces or stress-energy effects.
 
+This work does **not claim discovery of new physics**.  
+It provides a constrained, testable framework with simulations and experimental pathways.
+
 This repository provides:
-- theoretical framing
+
+- theoretical framework
 - constraint analysis
 - simulation tools
 - experimental protocols
@@ -24,6 +39,7 @@ This repository provides:
 This work does **not claim discovery of new physics**.
 
 Instead, it:
+
 - proposes a falsifiable hypothesis
 - enforces conservation-law consistency
 - defines experimentally testable predictions
@@ -33,18 +49,26 @@ Instead, it:
 
 ## 🧭 Repository Structure
 
-| Folder        | Purpose |
-|--------------|--------|
-| `papers/`     | Full EVRT paper series |
-| `simulations/`| Numerical exploration tools |
-| `data/`       | Sample and experimental datasets |
-| `analysis/`   | Signal detection and evaluation |
-| `experiment/` | Reproducible test protocols |
-| `docs/`       | Supporting materials |
+| Folder | Purpose |
+|--------|---------|
+| `papers/` | Full EVRT paper series (individual works) |
+| `docs/` | Documentation, diagrams, and overview materials |
+| `simulations/` | Numerical models and exploratory simulations |
+| `data/` | Datasets and generated outputs |
+| `analysis/` | Signal analysis and evaluation scripts |
+| `experiment/` | Experimental protocols and setup designs |
+
+These components collectively support a structured workflow from theoretical development through simulation, experimental design, and analysis.
 
 ---
 
 ## 🧪 Reproducibility
+
+Simulations and analysis tools are provided to explore parameter bounds and qualitative behavior.
+
+Results are intended for qualitative and exploratory analysis rather than predictive validation.
+
+These models are illustrative and not experimentally calibrated predictive systems.
 
 ### Run simulation
 
