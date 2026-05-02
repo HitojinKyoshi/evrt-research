@@ -51,11 +51,3 @@ Instead, it:
 ```bash
 pip install -r requirements.txt
 python simulations/toy_model.py
-
-## 📚 Citation
-
-This work is archived and citable via Zenodo:
-
-DOI: https://doi.org/10.5281/zenodo.8475
-
-Please cite this repository if you use or reference this work.
