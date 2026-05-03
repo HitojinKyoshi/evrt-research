@@ -1,0 +1,22 @@
+\begin{tikzpicture}[node distance=1.35cm, >=Latex, font=\small]
+\tikzstyle{flowstep}=[draw, rounded corners, align=center, minimum width=3.4cm, minimum height=0.9cm, fill=gray!8]
+\tikzstyle{decision}=[draw, diamond, aspect=2.2, align=center, inner sep=1pt, fill=gray!5]
+\tikzstyle{arrow}=[->, thick]
+
+\node[flowstep] (baseline) {1. Baseline + drift measurement};
+\node[flowstep, below=of baseline] (calibration) {2. Calibration\\$\kappa$, force scale, voltage/current probes};
+\node[flowstep, below=of calibration] (operate) {3. Controlled operation\\power ramp, drive profile, environment log};
+\node[flowstep, below=of operate] (budget) {4. Energy-budget reconstruction\\$P_{\mathrm{in}}, \dot U_{\mathrm{stored}}, P_{\mathrm{mech}}, P_{\mathrm{loss}}$};
+\node[flowstep, below=of budget] (residual) {5. Residual + uncertainty\\$P_{\mathrm{res}} = 0 \pm \sigma_{\mathrm{res}}$};
+\node[decision, below=1.2cm of residual] (test) {$|P_{\mathrm{res}}| > n\sigma_{\mathrm{res}}$ and survives controls?};
+\node[flowstep, below left=1.1cm and 1.9cm of test] (null) {Null-consistent result\\explain by known budget};
+\node[flowstep, below right=1.1cm and 1.9cm of test] (candidate) {Provisional residual\\repeat, blind controls, independent replication};
+
+\draw[arrow] (baseline) -- (calibration);
+\draw[arrow] (calibration) -- (operate);
+\draw[arrow] (operate) -- (budget);
+\draw[arrow] (budget) -- (residual);
+\draw[arrow] (residual) -- (test);
+\draw[arrow] (test) -- node[left, near start] {No} (null);
+\draw[arrow] (test) -- node[right, near start] {Yes} (candidate);
+\end{tikzpicture}
