@@ -1,0 +1,3 @@
+case,mass_kg,E_V_per_m,Migliorero_Musha_force_N,Migliorero_Musha_kgf,electrostatic_pressure_internal_N,electrostatic_pressure_internal_kgf,EVRT_residual_chi_1e-4_N,EVRT_residual_chi_1e-4_kgf,Migliorero_Musha_grams_force,electrostatic_pressure_internal_grams_force
+"4 m BST disk at 100 kV, 1 mm",65.3451271946677,100000000.0,1526.8701208554196,155.69742173478403,7510387877.835691,765846428.4781951,751038.7877835692,76584.64284781952,,
+"14 cm glass capacitor at 19.6 kV, 4 mm",0.1354654752227919,4900000.0,0.0015029914709454575,,11.29031185506017,,,,0.1532624770890628,1151.2914048181765
