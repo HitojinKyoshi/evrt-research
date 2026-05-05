@@ -1,10 +1,13 @@
-# Simulations
+# EVRT Reduced-Order Simulation
 
-This directory contains numerical models used to explore EVRT behavior.
+This package models an asymmetric high-voltage capacitor using three components:
 
-These scripts are illustrative and intended to:
-- explore parameter sensitivity
-- demonstrate qualitative behavior
-- guide experimental expectations
+F_total = F_electrostatic + F_EHD + F_residual
 
-They are not calibrated predictive models.
+Where:
+- F_electrostatic is a conservative electrostatic field-pressure/asymmetry component.
+- F_EHD is an illustrative pressure-dependent electrohydrodynamic artifact term.
+- F_residual is an EVRT-style effective response term: F_residual ~ chi_eff * (u V / L).
+
+This is not a calibrated physical prediction. It is a screening model for asking:
+"How large would chi_eff need to be after ordinary artifacts are accounted for?"
