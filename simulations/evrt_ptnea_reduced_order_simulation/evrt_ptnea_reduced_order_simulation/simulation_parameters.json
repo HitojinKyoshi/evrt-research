@@ -1,0 +1,13 @@
+{
+  "active_volume_m3": 0.00015,
+  "epsilon0_F_per_m": 8.8541878128e-12,
+  "nominal_gap_m": 0.02,
+  "nominal_resonance_Hz": 2450000000.0,
+  "loaded_Q": 12000.0,
+  "chi_eff_candidate_per_m": 0.15,
+  "geometry_asymmetry_factor": 0.08,
+  "noise_std_N": 2e-09,
+  "thermal_time_constant_s": 80.0,
+  "thermal_force_gain_N_per_W": 1.5e-08,
+  "ehd_pressure_half_suppression_Pa": 100.0
+}
