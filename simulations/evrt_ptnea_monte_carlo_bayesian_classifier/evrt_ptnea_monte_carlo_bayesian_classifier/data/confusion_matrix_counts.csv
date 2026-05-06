@@ -1,0 +1,8 @@
+true_class,EHD_plasma,lorentz_RF_cable,mechanical_vibration,mixed_artifact,null,residual_candidate,thermal
+EHD_plasma,979,0,0,17,4,0,0
+lorentz_RF_cable,0,993,1,6,0,0,0
+mechanical_vibration,0,6,901,44,48,0,1
+mixed_artifact,46,18,99,812,8,0,17
+null,12,0,14,9,965,0,0
+residual_candidate,0,0,0,0,0,1000,0
+thermal,0,0,0,3,0,0,997
