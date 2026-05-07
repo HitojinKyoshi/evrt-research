@@ -12,7 +12,7 @@ A Constrained Phenomenological Framework with Experimental Pathways**
 > A constrained, falsifiable framework for testing potential emergent electromagnetic effects.
 
 📥 [Download PDF](https://zenodo.org/records/19981661/files/EMERGE~1.PDF?download=1)  
-🔗 DOI: doi: "10.5281/zenodo.20055348"
+🔗 DOI: doi: "10.5281/zenodo.19981660"
 
 ---
 
