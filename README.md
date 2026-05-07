@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20055348.svg)](https://doi.org/10.5281/zenodo.20055348)
 
 A reproducible research framework investigating whether structured, nonequilibrium electromagnetic systems may exhibit measurable stress-energy effects beyond conventional interpretations.
 
@@ -12,7 +12,7 @@ A Constrained Phenomenological Framework with Experimental Pathways**
 > A constrained, falsifiable framework for testing potential emergent electromagnetic effects.
 
 📥 [Download PDF](https://zenodo.org/records/19981661/files/EMERGE~1.PDF?download=1)  
-🔗 DOI: https://doi.org/10.5281/zenodo.8475
+🔗 DOI: doi: "10.5281/zenodo.20055348"
 
 ---
 
