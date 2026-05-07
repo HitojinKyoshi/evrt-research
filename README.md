@@ -82,6 +82,14 @@ These components collectively support a structured workflow from theoretical dev
 
 ---
 
+## 🔗 Research Infrastructure
+
+- 📚 Zenodo archival releases for DOI preservation
+- 💻 GitHub repository for simulations, figures, and evolving research materials
+- 🧪 Experimental metrology framework for reproducible testing workflows
+
+  ---
+
 ## 🧪 Reproducibility
 
 Simulations and analysis tools are provided to explore parameter bounds and qualitative behavior.
@@ -95,3 +103,86 @@ These models are illustrative and not experimentally calibrated predictive syste
 ```bash
 pip install -r requirements.txt
 python simulations/toy_model.py
+```
+
+## 🧩 Research Layers
+
+### Foundational Theory
+- emergent vacuum susceptibility
+- nonequilibrium electrodynamics
+- stress-energy transfer hypotheses
+- phenomenological scaling architectures
+
+### Constraint Frameworks
+- momentum conservation
+- thermodynamic limits
+- energy-budget accounting
+- parameter-bound analysis
+
+### Simulation Frameworks
+- field asymmetry analysis
+- Monte Carlo diagnostics
+- Bayesian artifact classification
+- stress-tensor modeling
+
+### Experimental Metrology
+- torsion-balance methodologies
+- vacuum persistence testing
+- geometry-reversal diagnostics
+- dummy-load controls
+- residual-force sensitivity analysis
+### Run simulation
+
+--- 
+
+## 📡 Current Program Status
+
+Current work is focused on:
+
+- canonical residual-force scaling laws
+- precision metrology architectures
+- systematic artifact rejection
+- uncertainty analysis
+- experimentally testable nonequilibrium electromagnetic frameworks
+
+No experimentally verified residual-force effect has been established.
+
+--- 
+
+## 🗺️ EVRT Research Roadmap
+
+![EVRT Roadmap](figures/roadmap/EVRT_DOI_linked_color_coded_roadmap.png)
+
+---
+
+## 📄 Core Framework Paper
+
+--- 
+
+## 📄 Canonical Scaling Framework
+
+**Toward a Canonical Residual–Force Scaling Law for Coherent Nonequilibrium Electromagnetic Systems**
+
+> A formal phenomenological scaling framework for residual-force inference, diagnostic classification, and precision metrology in coherent nonequilibrium electromagnetic systems.
+
+---
+
+## 🧠 Research Philosophy
+
+The EVRT framework emphasizes:
+
+- falsifiability
+- systematic artifact rejection
+- conservation-law consistency
+- uncertainty accounting
+- reproducible experimental methodology
+
+---
+
+## 📜 License
+
+This repository is released under the MIT License.
+
+The work is intended to support open scientific discussion, reproducibility, phenomenological modeling, and experimental metrology research related to coherent nonequilibrium electromagnetic systems.
+
+See the [LICENSE](LICENSE) file for full details.
