@@ -1,10 +1,43 @@
 cff-version: 1.2.0
-title: "Emergent Vacuum Response Theory (EVRT): Consolidated Research Framework"
-message: "If you use this work, please cite it using the DOI below."
+
+title: "EVRT Research Framework"
+
+message: "If you use this repository or associated manuscripts, please cite the relevant Zenodo DOI release."
+
+type: software
+
 authors:
   - family-names: "Sangalang"
     given-names: "Erick S."
-date-released: 2026
-version: "1.0.0"
-doi: 10.5281/zenodo.8475
-url: https://github.com/HitojinKyoshi/evrt-research
+    orcid: "https://orcid.org/0009-0009-4039-2815"
+
+repository-code: "https://github.com/HitojinKyoshi/evrt-research"
+
+url: "https://github.com/HitojinKyoshi/evrt-research"
+
+license: MIT
+
+keywords:
+  - nonequilibrium electrodynamics
+  - electromagnetic metrology
+  - EVRT
+  - residual-force scaling
+  - stress-energy analysis
+  - precision measurement
+  - phenomenological modeling
+  - coherent electromagnetic systems
+
+preferred-citation:
+  type: article
+
+  title: "Toward a Canonical Residual–Force Scaling Law for Coherent Nonequilibrium Electromagnetic Systems"
+
+  authors:
+    - family-names: "Sangalang"
+      given-names: "Erick S."
+
+  doi: "10.5281/zenodo.8475"
+
+  publisher: "Zenodo"
+
+  year: 2026
