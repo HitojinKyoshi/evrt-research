@@ -77,7 +77,7 @@ This framework consolidates the broader EVRT research program into a unified phe
 
 🔗 DOI: https://doi.org/10.5281/zenodo.20072222
 
-This release represents a major structural and documentation-focused evolution of the EVRT (Emergent Vacuum Response Theory) research repository.
+This release represents a major architectural and documentation-focused evolution of the EVRT (Emergent Vacuum Response Theory) research framework.
 
 📥 [Download PDF](https://zenodo.org/records/20072222/files/TOWARD~1.PDF?download=1)
 
@@ -171,6 +171,8 @@ Current emphasis areas include:
 
 ## 🧭 Repository Architecture
 
+An open scientific framework for constrained phenomenological modeling, residual-force metrology, uncertainty-aware diagnostics, and reproducible nonequilibrium electromagnetic experimentation.
+
 ![EVRT Roadmap](figures/roadmap/EVRT_Research_Roadmap.png)
 
 | Folder | Purpose |
@@ -212,9 +214,9 @@ The framework emphasizes:
 | Phase | Focus |
 |---|---|
 | Foundational Theory | Emergent vacuum susceptibility and nonequilibrium electrodynamics |
-| Constraint Analysis | Conservation-law consistency and parameter bounds |
+| Constraint & Validation | Conservation-law consistency and parameter bounds |
 | Simulation Frameworks | Resonant cavity modeling and stress asymmetry analysis |
-| Experimental Metrology | Precision residual-force testing architectures |
+| Experimental Diagnostics & Metrology | Precision residual-force testing architectures |
 | Canonical Scaling Framework | Residual-force scaling laws and diagnostic classification |
 
 ---
@@ -350,6 +352,12 @@ Future development is expected to focus primarily on:
 - simulation validation
 - reproducible experimental workflows
 - diagnostic standardization
+
+---
+
+## 🌐 Repository Topics
+
+physics • electrodynamics • metrology • experimental physics • simulation • numerical simulation • resonant cavities • vacuum physics • phenomenology • reproducibility • diagnostics
 
 ---
 
