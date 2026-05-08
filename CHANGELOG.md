@@ -68,6 +68,8 @@ The repository transitioned from a collection of independent research papers int
 
 # EVRT v2.0
 
+Transition toward experimental validation, falsification methodology, and constraint-aware diagnostics.
+
 ## Experimental Validation and Constraint Layer
 
 ### Major Additions

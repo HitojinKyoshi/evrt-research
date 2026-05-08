@@ -71,7 +71,7 @@ This framework consolidates the broader EVRT research program into a unified phe
 
 ---
 
-# 🚀 Latest Release
+# 🚀 Flagship Framework Release
 
 ### Toward a Canonical Residual–Force Scaling Law for Coherent Nonequilibrium Electromagnetic Systems
 
