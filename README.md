@@ -2,6 +2,10 @@
 
 # EVRT — Emergent Vacuum Response Theory
 
+## EVRT Research Framework v3.1
+
+### Repository Architecture, Diagnostics, and Metrology Update
+
 A constrained phenomenological research framework investigating whether structured nonequilibrium electromagnetic systems may exhibit measurable residual stress-energy effects under precision experimental conditions.
 
 ---
@@ -41,6 +45,7 @@ Instead, it provides a structured scientific framework for investigating whether
 - [Paper Index](papers/index.md)
 - [Glossary](docs/glossary.md)
 - [Repository Architecture](docs/repository_architecture.md)
+- [Methodology](docs/methodology.md)
 
 ---
 
@@ -68,33 +73,65 @@ This framework consolidates the broader EVRT research program into a unified phe
 
 # 🚀 Latest Release
 
-## EVRT v3.0 — Canonical Residual–Force Scaling and Metrology Framework
-
 ### Toward a Canonical Residual–Force Scaling Law for Coherent Nonequilibrium Electromagnetic Systems
 
 🔗 DOI: https://doi.org/10.5281/zenodo.20072222
 
-This release introduces a structured scaling-law framework for analyzing residual-force signatures in coherent nonequilibrium electromagnetic systems.
+This release represents a major structural and documentation-focused evolution of the EVRT (Emergent Vacuum Response Theory) research repository.
 
-Major focus areas include:
+📥 [Download PDF](https://zenodo.org/records/20072222/files/TOWARD~1.PDF?download=1)
 
+The repository now functions as a structured open scientific framework integrating:
+
+- phenomenological modeling
+- simulation-guided analysis
+- precision residual-force metrology
+- uncertainty-aware diagnostics
+- artifact-discrimination workflows
 - canonical scaling architectures
-- uncertainty-aware metrology
-- diagnostic classification
-- artifact discrimination
-- residual-force inference
-- parameter-space normalization
-- reproducible experimental workflows
+- reproducible experimental methodology
+- parameter-space visualization
+- structured documentation systems
+
+Major additions include:
+
+- repository architecture redesign
+- glossary and framework-overview documentation
+- diagnostics infrastructure
+- uncertainty-analysis visualization assets
+- canonical scaling diagnostics
+- expanded README ecosystem
+- paper taxonomy organization
+- reproducibility-oriented folder structures
+- updated citation metadata
 
 ---
 
-## 📄 Phase II — Constraint & Validation
+## 📄 Phase II — Experimental Diagnostics & Validation
+
+### Artifact Discrimination and Residual-Force Metrology in Pais-Type Nonequilibrium Electromagnetic Architectures
+
+🔗 DOI: https://doi.org/10.5281/zenodo.20055348
+
+📥 [Download PDF](https://zenodo.org/records/20055349/files/ARTIFA~1.PDF?download=1)
+
+This work focuses on artifact-aware residual-force diagnostics, uncertainty-aware metrology, and structured falsification methodology applied to Pais-type nonequilibrium electromagnetic architectures.
+
+Major emphasis areas include:
+
+- residual-force classification
+- systematic artifact rejection
+- precision metrology workflows
+- uncertainty-aware interpretation
+- experimental diagnostics
+
+---
 
 ### Systematic Artifact Analysis and Null Hypothesis Stress Testing for Emergent Vacuum Response Experiments
 
 > A falsification-focused analysis of experimental artifacts and control methodologies in EVRT testing.
 
-📥 [Download PDF](https://zenodo.org/records/19983227)
+📥 [Download PDF](https://zenodo.org/records/19983227/files/SYSTEM~1.PDF?download=1)
 
 🔗 DOI: https://doi.org/10.5281/zenodo.19983226
 
@@ -145,6 +182,28 @@ Current emphasis areas include:
 | `data/` | Sample outputs, templates, and datasets |
 | `docs/` | Glossary, methodology, and framework-overview documents |
 | `simulations/` | Numerical modeling and exploratory simulations |
+
+---
+
+## 🧠 Repository Philosophy
+
+The EVRT repository is intended to function as:
+
+- an open scientific framework
+- a structured metrology architecture
+- a simulation-guided analysis environment
+- a reproducible experimental reference
+- a documentation and visualization platform
+
+The framework emphasizes:
+
+- falsifiability
+- uncertainty-aware interpretation
+- systematic artifact rejection
+- conservation-law consistency
+- precision metrology
+- reproducibility
+- conservative interpretation of residual signatures
 
 ---
 
@@ -208,6 +267,29 @@ Instead, the program:
 
 ---
 
+## 📊 Diagnostic & Scaling Infrastructure
+
+The EVRT framework now includes structured diagnostic and scaling-analysis infrastructure supporting:
+
+- artifact probability classification
+- noise-floor comparison analysis
+- uncertainty-budget visualization
+- residual-force scaling laws
+- signal-to-noise parameter studies
+- effective susceptibility constraint mapping
+
+Representative diagnostics include:
+
+- `artifact_probability_heatmap.png`
+- `noise_floor_comparison.png`
+- `uncertainty_budget_chart.png`
+- `signal_to_noise_vs_q.png`
+- `chi_eff_bounds_map.png`
+
+These assets support uncertainty-aware residual-force interpretation and reproducible metrology workflows.
+
+---
+
 ## 📡 Current Experimental Status
 
 At present, no experimentally verified residual-force effect has been established within the EVRT framework.
@@ -236,3 +318,83 @@ Example usage:
 ```bash
 pip install -r requirements.txt
 python simulations/toy_model.py
+```
+
+The repository now includes:
+
+- structured figure taxonomies
+- diagnostics workflows
+- reproducibility-oriented folder architecture
+- standardized documentation systems
+- simulation and scaling-law infrastructure
+- artifact-aware metrology assets
+
+---
+
+## 📌 Repository Status
+
+The EVRT repository has transitioned from an isolated paper archive into a structured research and metrology framework emphasizing:
+
+- reproducibility
+- documentation clarity
+- diagnostic rigor
+- parameter-bound analysis
+- simulation-guided testing
+- artifact-aware interpretation
+
+Future development is expected to focus primarily on:
+
+- scaling-law refinement
+- metrology improvements
+- uncertainty reduction
+- simulation validation
+- reproducible experimental workflows
+- diagnostic standardization
+
+---
+
+## 📜 License
+
+This repository is released under the MIT License.
+
+The EVRT (Emergent Vacuum Response Theory) research framework is intended to support:
+
+- open scientific discussion
+- reproducibility-oriented research
+- phenomenological modeling
+- simulation-guided analysis
+- precision experimental metrology
+- uncertainty-aware diagnostics
+- artifact-discrimination methodology
+
+associated with coherent nonequilibrium electromagnetic systems.
+
+Unless otherwise noted, repository materials including:
+
+- documentation
+- figures
+- analysis workflows
+- simulation scripts
+- scaling-law assets
+- diagnostic visualizations
+
+are distributed under the terms of the MIT License.
+
+See the [`LICENSE`](LICENSE) file for full details.
+
+---
+
+## 📚 Citation
+
+If you use this repository or associated research materials, please cite the EVRT research framework using the metadata provided in:
+
+- `CITATION.cff`
+- `papers/index.md`
+
+Primary repository:
+
+https://github.com/HitojinKyoshi/evrt-research
+
+Primary archival DOI:
+
+https://doi.org/10.5281/zenodo.20055348
