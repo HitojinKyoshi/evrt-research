@@ -216,3 +216,156 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---------------------------------------------------
+# EVRT Research Framework
+# ---------------------------------------------------
+
+# Generated simulation outputs
+generated_outputs/
+simulation_outputs/
+analysis_outputs/
+
+# Experimental temporary logs
+experiment/tmp/
+experiment/cache/
+
+# Large raw datasets
+*.h5
+*.hdf5
+*.npz
+
+# Temporary plotting exports
+*.tmp.png
+*.tmp.pdf
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Overleaf temporary files
+*.nav
+*.snm
+*.vrb
+
+# PDF build artifacts (optional)
+build_pdf/
+
+# Experimental acquisition dumps
+raw_capture/
+scope_dumps/
+
+# Temporary notebooks
+scratch_notebooks/
+
+# Local analysis notes
+private_notes/
+
+# ---------------------------------------------------
+# EVRT Generated Outputs
+# ---------------------------------------------------
+
+generated_outputs/
+simulation_outputs/
+analysis_outputs/
+
+# Temporary experiment dumps
+experiment/tmp/
+raw_capture/
+scope_dumps/
+
+# Scratch work
+scratch_notebooks/
+docs/drafts/
+
+# Temporary rendered figures
+figures/tmp/
+
+# Preserve raw-data folder structure only
+data/raw/*
+!data/raw/.gitkeep
+
+# ---------------------------------------------------
+# EVRT Repository Structure
+# ---------------------------------------------------
+
+# Core tracked repository assets
+# (Do NOT ignore these)
+#
+# figures/
+# papers/
+# docs/
+# data/sample_outputs/
+
+# ---------------------------------------------------
+# Ignored generated and temporary content
+# ---------------------------------------------------
+
+generated_outputs/
+cache/
+tmp/
+raw_capture/
+scratch/
+
+# Experimental temporary data
+experiment/tmp/
+experiment/cache/
+
+# Simulation-generated outputs
+simulation_outputs/
+analysis_outputs/
+
+# Temporary rendered figures
+figures/tmp/
+
+# Scratch notebooks and drafts
+scratch_notebooks/
+docs/drafts/
+
+# Raw acquisition dumps
+scope_dumps/
+
+# Preserve raw-data folder structure only
+data/raw/*
+!data/raw/.gitkeep
+
+# ---------------------------------------------------
+# Preserve Empty Folder Structure
+# ---------------------------------------------------
+# Git does not track empty directories.
+# Use .gitkeep files to preserve important
+# repository structure for generated outputs,
+# raw datasets, and temporary workflow folders.
+
+# Preserve raw data folder structure
+data/raw/*
+!data/raw/.gitkeep
+
+# Preserve generated output structure
+generated_outputs/*
+!generated_outputs/.gitkeep
+
+# Preserve simulation output structure
+simulation_outputs/*
+!simulation_outputs/.gitkeep
+
+# Preserve analysis output structure
+analysis_outputs/*
+!analysis_outputs/.gitkeep
+
+# Preserve temporary experiment structure
+experiment/tmp/*
+!experiment/tmp/.gitkeep

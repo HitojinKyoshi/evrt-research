@@ -1,0 +1,31 @@
+# Core scientific computing
+numpy
+scipy
+pandas
+
+# Visualization and plotting
+matplotlib
+
+# Symbolic mathematics
+sympy
+
+# Numerical optimization and fitting
+scikit-learn
+
+# Jupyter support
+jupyter
+
+# Progress tracking utilities
+tqdm
+
+# Data export and spreadsheet handling
+openpyxl
+
+# Scientific constants and utilities
+uncertainties
+
+# Optional finite-element / scientific workflow support
+meshio
+
+# Image processing and figure utilities
+pillow
