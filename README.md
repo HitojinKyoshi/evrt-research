@@ -16,6 +16,30 @@ A Constrained Phenomenological Framework with Experimental Pathways**
 
 ---
 
+# 🚀 Latest Release
+
+## EVRT v3.0 — Canonical Residual–Force Scaling and Metrology Framework
+
+**Toward a Canonical Residual–Force Scaling Law for Coherent Nonequilibrium Electromagnetic Systems**
+
+DOI: https://doi.org/10.5281/zenodo.20072222
+
+This release introduces a structured scaling-law framework for analyzing residual-force signatures in coherent nonequilibrium electromagnetic systems.
+
+Major focus areas include:
+
+- canonical scaling architectures
+- uncertainty-aware metrology
+- diagnostic classification
+- artifact discrimination
+- residual-force inference
+- parameter-space normalization
+- reproducible experimental workflows
+
+The framework emphasizes conservative interpretation, falsifiability, and precision measurement methodology.
+
+---
+
 ## 📄 Phase II — Constraint & Validation
 
 **Systematic Artifact Analysis and Null Hypothesis Stress Testing for Emergent Vacuum Response Experiments**
