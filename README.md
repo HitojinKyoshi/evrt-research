@@ -40,6 +40,18 @@ The framework emphasizes conservative interpretation, falsifiability, and precis
 
 ---
 
+## 📄 Core Framework Paper
+
+--- 
+
+## 📄 Canonical Scaling Framework
+
+**Toward a Canonical Residual–Force Scaling Law for Coherent Nonequilibrium Electromagnetic Systems**
+
+> A formal phenomenological scaling framework for residual-force inference, diagnostic classification, and precision metrology in coherent nonequilibrium electromagnetic systems.
+
+---
+
 ## 📄 Phase II — Constraint & Validation
 
 **Systematic Artifact Analysis and Null Hypothesis Stress Testing for Emergent Vacuum Response Experiments**
@@ -176,18 +188,6 @@ No experimentally verified residual-force effect has been established.
 ## 🗺️ EVRT Research Roadmap
 
 ![EVRT Roadmap](figures/roadmap/EVRT_DOI_linked_color_coded_roadmap.png)
-
----
-
-## 📄 Core Framework Paper
-
---- 
-
-## 📄 Canonical Scaling Framework
-
-**Toward a Canonical Residual–Force Scaling Law for Coherent Nonequilibrium Electromagnetic Systems**
-
-> A formal phenomenological scaling framework for residual-force inference, diagnostic classification, and precision metrology in coherent nonequilibrium electromagnetic systems.
 
 ---
 
