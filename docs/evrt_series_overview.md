@@ -1,90 +1,114 @@
 # EVRT Series Overview
 
-## Emergent Vacuum Response Theory Research Program
+## Emergent Vacuum Response Theory (EVRT) Research Program
 
-This document provides a structured overview of the EVRT (Emergent Vacuum Response Theory) research series and the broader Coherent Nonequilibrium Electromagnetic Systems program.
+---
 
-The EVRT series is a constrained phenomenological research program investigating whether structured nonequilibrium electromagnetic systems may exhibit measurable residual stress-energy effects under precision experimental conditions.
+# Overview
 
-The program emphasizes:
+The EVRT (Emergent Vacuum Response Theory) research program is a structured phenomenological and metrological framework investigating whether highly controlled nonequilibrium electromagnetic systems may exhibit experimentally measurable residual effects under precision diagnostic conditions.
 
-* falsifiability
-* conservation-law consistency
-* artifact discrimination
-* uncertainty-aware metrology
-* reproducible experimental methodology
-* null-result interpretation
-* simulation-guided parameter analysis
-* residual-force scaling and diagnostic classification
+The repository integrates:
 
-This series does **not claim discovery of new physics**, verified antigravity, reactionless propulsion, or experimentally confirmed anomalous forces.
+- phenomenological modeling
+- constraint analysis
+- simulation-guided experimentation
+- residual-force metrology
+- uncertainty-aware diagnostics
+- artifact-discrimination workflows
+- canonical scaling-law analysis
+- reproducibility-oriented infrastructure
 
-Instead, it develops a structured framework for testing whether small residual signatures remain after conventional electromagnetic, thermal, mechanical, plasma, acoustic, environmental, and instrumentation artifacts are independently constrained.
+The EVRT framework does **not claim experimentally verified anomalous-force phenomena, antigravity, reactionless propulsion, or violations of established physical law**.
+
+Instead, the program focuses on:
+
+- falsifiable experimentation
+- uncertainty-aware interpretation
+- systematic artifact rejection
+- parameter-bound refinement
+- precision residual-force metrology
+- reproducibility-oriented scientific workflows
+
+The framework is intended to remain:
+
+- conservative
+- diagnostically rigorous
+- experimentally testable
+- uncertainty-aware
+- reproducibility-oriented
+
+throughout all phases of development.
+
+---
+
+# Repository Evolution
+
+The EVRT repository has evolved from an exploratory phenomenological paper series into a structured scientific framework emphasizing:
+
+- precision diagnostics
+- uncertainty-aware metrology
+- canonical scaling architectures
+- reproducibility infrastructure
+- artifact discrimination
+- simulation-guided experimentation
+- structured methodological transparency
+
+The repository increasingly functions as:
+
+- an open scientific framework
+- a structured metrology architecture
+- a diagnostic analysis ecosystem
+- a simulation-guided experimentation environment
+- a reproducibility-oriented research platform
 
 ---
 
 # Research Program Structure
 
-The EVRT series can be organized into several major research layers:
+The EVRT series is organized into several major research layers:
 
-| Layer                                 | Purpose                                                                      |
-| ------------------------------------- | ---------------------------------------------------------------------------- |
-| Foundational Theory                   | Introduces the conceptual and phenomenological basis of EVRT                 |
-| Microscopic / Statistical Foundations | Explores possible statistical and pseudoscalar-response interpretations      |
-| Phenomenological Electrodynamics      | Develops effective-response and prediction frameworks                        |
-| Constraints and Bounds                | Applies conservation laws, parameter bounds, and thermodynamic limits        |
-| Simulation and Modeling               | Uses numerical and reduced-order studies to evaluate field asymmetry         |
-| Experimental Protocols                | Defines controlled testing methodologies and measurement workflows           |
-| Metrology and Artifact Rejection      | Focuses on residual-force classification and false-positive rejection        |
-| Canonical Scaling Framework           | Develops normalized residual-force scaling laws and diagnostic architectures |
+| Layer | Purpose |
+|---|---|
+| Foundational Theory | Introduces the conceptual and phenomenological basis of EVRT |
+| Microscopic / Statistical Foundations | Explores possible statistical and pseudoscalar-response interpretations |
+| Phenomenological Electrodynamics | Develops effective-response and prediction frameworks |
+| Constraints and Bounds | Applies conservation laws, parameter bounds, and thermodynamic limits |
+| Simulation and Modeling | Uses numerical and reduced-order studies to evaluate field asymmetry |
+| Experimental Protocols | Defines controlled testing methodologies and measurement workflows |
+| Metrology and Artifact Rejection | Focuses on residual-force classification and false-positive rejection |
+| Canonical Scaling Framework | Develops normalized residual-force scaling laws and diagnostic architectures |
+| Reproducibility Infrastructure | Organizes repository architecture, workflows, diagnostics, and documentation |
 
 ---
 
 # Core Scientific Position
 
-The EVRT program is intentionally conservative.
+The EVRT framework adopts a conservative scientific position emphasizing falsifiability and disciplined interpretation.
 
-It treats candidate residual-force observations as meaningful only if they survive:
+Candidate residual-force observations are considered meaningful only if they survive:
 
-* thermal artifact rejection
-* Lorentz-force analysis
-* RF leakage checks
-* vibration monitoring
-* cable-force controls
-* dummy-load substitution
-* geometry reversal
-* polarity reversal
-* environmental isolation
-* uncertainty-budget analysis
-* independent reproducibility testing
+- thermal artifact rejection
+- Lorentz-force analysis
+- RF leakage checks
+- vibration monitoring
+- cable-force controls
+- dummy-load substitution
+- geometry reversal
+- polarity reversal
+- environmental isolation
+- uncertainty-budget analysis
+- independent reproducibility testing
 
-Null results are considered scientifically valuable because they constrain possible EVRT-like response amplitudes and refine future experimental designs.
+Null results are treated as scientifically valuable because they:
 
----
+- constrain parameter space
+- establish sensitivity thresholds
+- improve metrological rigor
+- refine experimental architectures
+- reduce interpretive ambiguity
 
-# Research Evolution
-
-The series has evolved through several major phases:
-
-## Phase I — Foundational and Conceptual Development
-
-This phase establishes the conceptual basis for investigating structured vacuum-response hypotheses, emergent susceptibility, nonequilibrium electrodynamics, and possible phenomenological extensions of conventional electromagnetic theory.
-
-## Phase II — Constraint and Validation Layer
-
-This phase introduces conservation-law analysis, parameter bounds, thermodynamic limits, and artifact-aware methodology to reduce speculative ambiguity.
-
-## Phase III — Simulation and Numerical Modeling
-
-This phase develops simulation-guided approaches for evaluating electromagnetic field asymmetry, stress redistribution, parameter sensitivity, and resonant cavity behavior.
-
-## Phase IV — Experimental Metrology and Protocol Development
-
-This phase formalizes tabletop testing, torsion-balance methodology, residual-force measurements, uncertainty budgets, and reproducible experimental controls.
-
-## Phase V — Canonical Scaling and Diagnostic Classification
-
-This phase introduces a more mature residual-force scaling framework intended to normalize observations across experimental platforms and classify artifact versus candidate residual behavior.
+The framework therefore prioritizes:
 
 ---
 
