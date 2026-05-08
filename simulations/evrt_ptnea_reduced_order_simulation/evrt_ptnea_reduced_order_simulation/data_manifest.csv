@@ -1,7 +1,0 @@
-file,rows,columns
-dummy_load_response.csv,601,time_s; drive_on; power_W; candidate_residual_device_N; thermal_lag_force_N; device_measured_force_N; dummy_load_measured_force_N
-force_vs_frequency_resonance.csv,401,frequency_Hz; frequency_offset_Hz; lorentzian_resonance_gain; candidate_residual_force_N; mechanical_artifact_force_N; measured_force_N
-force_vs_pressure_vacuum.csv,160,pressure_Pa; candidate_residual_force_N; ehd_plasma_artifact_force_N; measured_force_N
-force_vs_voltage_field_strength.csv,121,voltage_V; field_strength_V_per_m; energy_density_J_per_m3; candidate_residual_force_N; ehd_pressure_artifact_force_N; thermal_artifact_force_N; measured_force_N
-geometry_reversal_response.csv,240,geometry; geometry_sign; voltage_V; energy_density_J_per_m3; candidate_residual_force_N; non_inverting_artifact_force_N; measured_force_N
-thermal_lag_response.csv,601,time_s; drive_on; instant_candidate_residual_N; delayed_thermal_artifact_N; total_force_N
