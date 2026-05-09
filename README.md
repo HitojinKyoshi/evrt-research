@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="figures/evrt_dark_cover.png" width="100%">
+  <img src="figures/evrt_dark_cover.png" width="50%">
 </p>
 
 <br>
