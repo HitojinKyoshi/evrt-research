@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Framework](https://img.shields.io/badge/EVRT-v3.1-important)
+![Experimental Package](https://img.shields.io/badge/package-v1.0-success)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20055348.svg)](https://doi.org/10.5281/zenodo.20055348)
 
 # EVRT — Emergent Vacuum Response Theory
@@ -179,7 +183,7 @@ An open scientific framework for constrained phenomenological modeling, residual
 |---|---|
 | `papers/` | EVRT paper series organized by research layer |
 | `figures/` | Diagnostics, scaling plots, workflows, and roadmap visuals |
-| `experiment/` | Apparatus notes, calibration workflows, and protocols |
+| `experimental_packages/` | Apparatus notes, calibration workflows, and protocols |
 | `analysis/` | Residual-force inference and uncertainty analysis |
 | `data/` | Sample outputs, templates, and datasets |
 | `docs/` | Glossary, methodology, and framework-overview documents |
@@ -406,3 +410,21 @@ https://github.com/HitojinKyoshi/evrt-research
 Primary archival DOI:
 
 https://doi.org/10.5281/zenodo.20055348
+
+---
+
+# 🧪 Experimental Reproducibility Packages
+
+| Package | Focus | Status |
+|---|---|---|
+| EVRT Precision Residual-Force Null-Test v1.0 | Torsion-balance diagnostics and uncertainty-aware metrology | Active |
+
+The EVRT repository now includes reproducibility-oriented experimental infrastructure emphasizing:
+
+- calibration discipline
+- artifact discrimination
+- uncertainty-aware diagnostics
+- null-result interpretation
+- reproducible experimental workflows
+- structured residual-force classification
+
