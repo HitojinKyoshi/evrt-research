@@ -1,0 +1,30 @@
+Core measurements
+time_s           → seconds since start of run
+position_mm      → position on surface OR displacement reading
+drift_rate_mm_s  → optional (can compute later)
+
+Electrical state
+power_state      → OFF / ON
+voltage_V        → 12, 18, 24, etc.
+current_A        → measured or estimated
+resistor_ohm     → 10 or 20
+
+Experimental control
+orientation_deg  → 0, 90, 180, 270
+config           → asymmetric / symmetric / dummy
+cable_position   → fixed / moved / loop_left / loop_right
+
+Environment tracking
+temp_C           → local temperature near device
+notes            → anything unusual (tap, bump, airflow, etc.)
+
+Run tracking
+run_id           → run_01, run_02, etc.
+
+example format:
+time_s,run_id,orientation_deg,power_state,voltage_V,current_A,temp_C,position_mm,drift_rate_mm_s,resistor_ohm,config,cable_position,notes
+0,run_01,0,OFF,0,0,22.5,0.0,0,10,asymmetric,fixed,baseline start
+30,run_01,0,OFF,0,0,22.5,0.1,,10,asymmetric,fixed,slow drift
+60,run_01,0,ON,12,1.2,23.0,0.3,,10,asymmetric,fixed,power applied
+90,run_01,0,ON,12,1.2,24.0,0.6,,10,asymmetric,fixed,drifting right
+120,run_01,180,ON,12,1.2,24.5,0.4,,10,asymmetric,fixed,rotated device

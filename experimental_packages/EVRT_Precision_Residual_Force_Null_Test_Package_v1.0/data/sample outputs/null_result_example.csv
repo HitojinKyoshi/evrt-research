@@ -1,0 +1,10 @@
+metric,value
+baseline_noise_floor_mm,0.05
+maximum_observed_displacement_mm,0.07
+repeatable_signal_detected,No
+thermal_artifact_detected,No
+cable_force_detected,No
+geometry_reversal_consistent,Yes
+polarity_reversal_consistent,Yes
+classification,Null Result
+final_interpretation,No statistically significant residual-force signal observed above calibrated sensitivity floor.
