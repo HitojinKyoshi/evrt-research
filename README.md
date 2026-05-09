@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="figures/evrt_dark_cover.png" width="100%">
-</p>
+![EVRT Cover](figures/evrt_dark_cover.png)
 
 <br>
 
