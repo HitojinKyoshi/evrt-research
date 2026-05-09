@@ -1,206 +1,363 @@
-# EVRT Research Framework
+<p align="center">
+  <img src="figures/evrt_dark_cover.png" width="100%">
+</p>
 
-## Emergent Vacuum Response Theory (EVRT)
+<br>
 
-### Structured Phenomenological Metrology and Reproducibility Framework
+# EVRT — Emergent Vacuum Response Theory
 
----
+## EVRT Research Framework v3.1
 
-# Overview
+### Repository Architecture, Diagnostics, and Metrology Update
 
-The EVRT Research Framework is an open scientific research program investigating candidate nonequilibrium electromagnetic response behavior under precision metrology conditions.
+A constrained phenomenological research framework investigating whether structured nonequilibrium electromagnetic systems may exhibit measurable residual stress-energy effects under precision experimental conditions.
 
-The framework evolved from early phenomenological investigations toward increasingly structured approaches emphasizing:
+<p align="center">
 
-* uncertainty-aware diagnostics
-* calibration discipline
-* systematic artifact discrimination
-* simulation-guided analysis
-* canonical scaling architectures
-* reproducibility-oriented experimentation
-* conservative scientific interpretation
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Framework](https://img.shields.io/badge/EVRT-v3.1-important)
+![Experimental Package](https://img.shields.io/badge/null--test-package-v1.0-success)
 
-Rather than presenting claims of verified anomalous propulsion or violations of established physical laws, EVRT is structured as a constrained and falsifiability-oriented framework focused on residual-force metrology and controlled experimental methodology.
+</p>
 
 ---
 
-# Framework Philosophy
+## 🔬 Overview
 
-The EVRT framework is built around several core principles:
+This repository contains the consolidated EVRT (Emergent Vacuum Response Theory) research program — an interdisciplinary investigation into asymmetric electromagnetic field systems, resonant cavities, nonequilibrium electrodynamics, and precision residual-force metrology.
 
-* falsifiability
-* conservation-law consistency
-* parameter-bound analysis
-* reproducibility
-* uncertainty accounting
-* experimental restraint
-* systematic artifact rejection
+The project integrates:
 
-The framework treats null results as scientifically meaningful because they constrain candidate EVRT-like response amplitudes and improve future precision metrology workflows.
+- theoretical modeling
+- constraint analysis
+- numerical simulations
+- experimental protocols
+- artifact discrimination methodologies
+- uncertainty analysis frameworks
+- scaling-law architectures
+- reproducible metrology workflows
 
----
+The EVRT framework is designed to remain:
 
-# Core Research Areas
+- falsifiable
+- conservation-law constrained
+- experimentally testable
+- uncertainty-aware
+- compatible with rigorous null-result interpretation
 
-The EVRT program currently focuses on:
+This repository does **not claim discovery of new physics** or verified propulsion phenomena.
 
-## Foundational Theory
-
-Phenomenological modeling of coherent nonequilibrium electromagnetic systems and candidate residual-force behavior.
-
-## Constraint and Validation
-
-Development of uncertainty-aware diagnostics, parameter bounds, control methodologies, and null-hypothesis stress testing.
-
-## Simulation and Modeling
-
-Finite-element analysis, scaling investigations, residual-force sensitivity studies, and simulation-guided experimental workflows.
-
-## Experimental Metrology
-
-Precision torsion-balance architectures, calibration methodologies, residual classification systems, and reproducibility-oriented testing infrastructure.
-
-## Canonical Scaling Frameworks
-
-Development of structured residual-force scaling relationships and parameter-space evaluation methodologies.
+Instead, it provides a structured scientific framework for investigating whether small residual effects may emerge in highly controlled nonequilibrium electromagnetic systems.
 
 ---
 
-# Experimental Infrastructure
+## 📚 Core Documentation
 
-The framework includes reproducibility-oriented experimental packages supporting:
-
-* torsion-balance residual-force testing
-* calibration workflows
-* noise-floor characterization
-* uncertainty-budget analysis
-* artifact classification
-* control methodologies
-* residual-force diagnostics
-* structured reporting systems
-
-These experimental packages are designed as conservative null-test-first metrology platforms emphasizing disciplined experimental methodology rather than extraordinary claims.
+- [EVRT Series Overview](docs/evrt_series_overview.md)
+- [Paper Index](papers/index.md)
+- [Glossary](docs/glossary.md)
+- [Repository Architecture](docs/repository_architecture.md)
+- [Methodology](docs/methodology.md)
+- [Roadmap](ROADMAP.md)
+- [Version](VERSION.md)
 
 ---
 
-# Repository Structure
+## 📄 Core Framework Paper
 
-| Directory                | Purpose                                          |
-| ------------------------ | ------------------------------------------------ |
-| `papers/`                | EVRT publications and theoretical papers         |
-| `experimental_packages/` | Reproducibility-oriented experimental frameworks |
-| `analysis/`              | Residual-force analysis and uncertainty tools    |
-| `data/`                  | Datasets, templates, and generated outputs       |
-| `figures/`               | Framework graphics and diagnostic visualizations |
-| `workflow/`              | Experimental and framework process architecture  |
-| `docs/`                  | Supporting framework documentation               |
-| `simulations/`           | Numerical modeling and simulation tools          |
+### Emergent Vacuum Response in Nonequilibrium Electromagnetic Systems
 
----
+#### A Constrained Phenomenological Framework with Experimental Pathways
 
-# Current Experimental Status
+> A constrained, falsifiable framework for testing potential emergent electromagnetic effects.
 
-Current EVRT experimental efforts emphasize:
+📥 [Download PDF](https://zenodo.org/records/19981661/files/EMERGE~1.PDF?download=1)
 
-* precision residual-force null testing
-* environmental-noise characterization
-* calibration refinement
-* uncertainty reduction
-* artifact discrimination
-* reproducibility-oriented diagnostics
+🔗 DOI: https://doi.org/10.5281/zenodo.19981660
 
-No experimentally verified anomalous-force or propulsion effect is currently claimed by the framework.
+This framework consolidates the broader EVRT research program into a unified phenomenological architecture emphasizing:
+
+- falsifiability
+- conservation-law consistency
+- residual-force metrology
+- precision experimental workflows
+- simulation-guided parameter analysis
 
 ---
 
-# Current Limitations
+## 🚀 Flagship Framework Release
 
-Current framework limitations include:
+### Toward a Canonical Residual–Force Scaling Law for Coherent Nonequilibrium Electromagnetic Systems
 
-* sensitivity constraints
-* environmental coupling
-* limited voltage regimes
-* non-vacuum operation
-* absence of independent replication
-* exploratory experimental scale
+🔗 DOI: https://doi.org/10.5281/zenodo.20072222
 
-These limitations are treated as active areas for future refinement rather than evidence of anomalous behavior.
+📥 [Download PDF](https://zenodo.org/records/20072222/files/TOWARD~1.PDF?download=1)
 
----
+This release represents a major structural and documentation-focused evolution of the EVRT research repository.
 
-# Reproducibility Philosophy
+The repository now functions as a structured open scientific framework integrating:
 
-The EVRT framework prioritizes:
+- phenomenological modeling
+- simulation-guided analysis
+- precision residual-force metrology
+- uncertainty-aware diagnostics
+- artifact-discrimination workflows
+- canonical scaling architectures
+- reproducible experimental methodology
+- parameter-space visualization
+- structured documentation systems
 
-* transparent methodology
-* structured documentation
-* operational reproducibility
-* conservative interpretation
-* calibration-first experimentation
-* systematic control testing
+Major additions include:
 
-Candidate residual-force observations are considered meaningful only if they survive:
-
-* baseline comparison
-* control substitution
-* polarity reversal
-* geometry reversal
-* environmental stability analysis
-* uncertainty-threshold evaluation
-* repeatability testing
+- repository architecture redesign
+- glossary and framework-overview documentation
+- diagnostics infrastructure
+- uncertainty-analysis visualization assets
+- canonical scaling diagnostics
+- expanded README ecosystem
+- paper taxonomy organization
+- reproducibility-oriented folder structures
+- updated citation metadata
 
 ---
 
-# Framework Status
+## 🧪 Experimental Reproducibility Packages
 
-Current status:
+The EVRT framework now includes modular experimental packages intended to support reproducible, null-test-first metrology workflows.
 
-```text
-Structured phenomenological metrology and reproducibility-oriented
-research framework for investigating candidate nonequilibrium
-electromagnetic response behavior under controlled experimental conditions.
-```
+| Package | Focus | Status |
+|---|---|---|
+| EVRT Precision Residual-Force Null-Test Package v1.0 | Torsion-balance residual-force diagnostics, calibration workflows, artifact controls, and uncertainty-aware null testing | Active |
 
----
+These packages support:
 
-# Intended Use
-
-The EVRT Research Framework is intended for:
-
-* exploratory metrology research
-* simulation-guided experimentation
-* uncertainty-analysis development
-* residual-force diagnostics
-* reproducibility-oriented methodology
-* educational and experimental investigations
+- apparatus documentation
+- calibration procedures
+- control-test workflows
+- uncertainty-budget analysis
+- sample output datasets
+- residual classification templates
+- conservative null-result reporting
 
 ---
 
-# License
+## 📄 Phase II — Experimental Diagnostics & Validation
 
-This repository is distributed under the MIT License unless otherwise noted.
+### Artifact Discrimination and Residual-Force Metrology in Pais-Type Nonequilibrium Electromagnetic Architectures
+
+🔗 DOI: https://doi.org/10.5281/zenodo.20055348
+
+📥 [Download PDF](https://zenodo.org/records/20055349/files/ARTIFA~1.PDF?download=1)
+
+This work focuses on artifact-aware residual-force diagnostics, uncertainty-aware metrology, and structured falsification methodology applied to Pais-type nonequilibrium electromagnetic architectures.
+
+Major emphasis areas include:
+
+- residual-force classification
+- systematic artifact rejection
+- precision metrology workflows
+- uncertainty-aware interpretation
+- experimental diagnostics
 
 ---
 
-# Citation
+### Systematic Artifact Analysis and Null Hypothesis Stress Testing for Emergent Vacuum Response Experiments
 
-If using EVRT framework materials, please cite:
+> A falsification-focused analysis of experimental artifacts and control methodologies in EVRT testing.
 
-* the EVRT research repository
-* associated Zenodo archival releases
-* relevant framework publications
-* experimental package documentation
+📥 [Download PDF](https://zenodo.org/records/19983227/files/SYSTEM~1.PDF?download=1)
+
+🔗 DOI: https://doi.org/10.5281/zenodo.19983226
+
+This work extends the EVRT framework by systematically identifying and eliminating false-positive mechanisms in experimental investigations.
+
+It provides:
+
+- thermal, mechanical, electromagnetic, and EHD artifact analysis
+- explicit signal-discrimination criteria
+- structured null-hypothesis stress-testing methodology
+- reproducibility-focused control strategies
 
 ---
 
-# Scientific Position
+## 🧩 Current Framework Status
 
-The EVRT framework does not claim:
+The EVRT repository has evolved into a structured open research framework integrating:
 
-* antigravity
-* reactionless propulsion
-* vacuum-energy extraction
-* experimentally verified anomalous-force phenomena
-* violations of conservation laws
+- constrained phenomenological modeling
+- simulation-guided parameter analysis
+- precision residual-force metrology
+- uncertainty-aware diagnostics
+- artifact-discrimination workflows
+- canonical scaling architectures
+- reproducible experimental methodology
+- modular experimental packages
 
-Instead, the framework provides a structured methodology for investigating candidate residual-force behavior under conservative experimental and metrological conditions.
+Current emphasis areas include:
+
+- falsifiable testing
+- parameter-bound refinement
+- uncertainty reduction
+- scaling-law validation
+- conservative interpretation
+- reproducibility-oriented workflows
+
+---
+
+## 🧭 Repository Architecture
+
+![EVRT Roadmap](figures/roadmap/EVRT_Research_Roadmap.png)
+
+| Folder | Purpose |
+|---|---|
+| `papers/` | EVRT paper series organized by research layer |
+| `figures/` | Diagnostics, scaling plots, workflows, and roadmap visuals |
+| `experimental_packages/` | Reproducibility-oriented experimental packages |
+| `analysis/` | Residual-force inference and uncertainty analysis |
+| `data/` | Sample outputs, templates, and datasets |
+| `docs/` | Glossary, methodology, and framework-overview documents |
+| `simulations/` | Numerical modeling and exploratory simulations |
+| `workflow/` | Process architecture and research workflow documentation |
+
+---
+
+## 🧠 Repository Philosophy
+
+The EVRT repository is intended to function as:
+
+- an open scientific framework
+- a structured metrology architecture
+- a simulation-guided analysis environment
+- a reproducible experimental reference
+- a documentation and visualization platform
+
+The framework emphasizes:
+
+- falsifiability
+- uncertainty-aware interpretation
+- systematic artifact rejection
+- conservation-law consistency
+- precision metrology
+- reproducibility
+- conservative interpretation of residual signatures
+
+---
+
+## 📚 Research Evolution
+
+| Phase | Focus |
+|---|---|
+| Foundational Theory | Emergent vacuum susceptibility and nonequilibrium electrodynamics |
+| Constraint & Validation | Conservation-law consistency, thermodynamic limits, and parameter bounds |
+| Simulation & Modeling | Resonant cavity modeling and stress asymmetry analysis |
+| Experimental Metrology | Precision residual-force testing architectures and controls |
+| Canonical Scaling Framework | Residual-force scaling laws and diagnostic classification |
+| Experimental Packages | Reproducibility-oriented null-test frameworks and operational workflows |
+
+---
+
+## ⚠️ Scientific Position
+
+This work does **not claim discovery of new physics**.
+
+Specifically, the framework does not claim:
+
+- antigravity
+- reactionless propulsion
+- experimentally verified anomalous-force phenomena
+- vacuum-energy extraction
+- violation of conservation laws
+
+Instead, the program:
+
+- proposes falsifiable hypotheses
+- enforces conservation-law consistency
+- defines experimentally testable predictions
+- treats null results as scientifically meaningful constraints
+- emphasizes precision measurement and artifact rejection
+
+---
+
+## 📚 Selected Papers
+
+### Foundational Theory
+
+- The Entropic Vacuum — DOI: 10.5281/zenodo.19797710
+- Emergent Nonequilibrium Vacuum Response Theory — DOI: 10.5281/zenodo.19836665
+- Emergent Vacuum Response Theory (EVRT): Constraints, Numerical Simulations, and Experimental Pathways for Nonequilibrium Electrodynamics — DOI: 10.5281/zenodo.19891259
+
+### Constraint & Validation
+
+- Constraint Analysis and Parameter Bounds on Emergent Vacuum Response Models — DOI: 10.5281/zenodo.19866283
+- Systematic Artifact Analysis and Null Hypothesis Stress Testing for Emergent Vacuum Response Experiments — DOI: 10.5281/zenodo.19983226
+- Thermodynamic Constraints and Energy Budget Framework for Nonequilibrium Electromagnetic Systems — DOI: 10.5281/zenodo.20008382
+
+### Simulation & Modeling
+
+- Simulation-Guided Investigation of Emergent Vacuum Response in Resonant Electromagnetic Systems — DOI: 10.5281/zenodo.19835426
+- Finite-Element Analysis of Resonant Electromagnetic Stress Redistribution in Asymmetric Cavities — DOI: 10.5281/zenodo.19867999
+- Cross-Validated Numerical Predictions of Electromagnetic Stress Asymmetry in Asymmetric Resonant Cavities — DOI: 10.5281/zenodo.19951346
+
+### Experimental Metrology
+
+- Precision Experimental Protocols for Testing Resonant Electromagnetic Stress Redistribution Under Nonequilibrium Conditions — DOI: 10.5281/zenodo.19868582
+- Minimal-Cost Experimental Test of EVRT Signatures in a Tabletop Resonator — DOI: 10.5281/zenodo.19926975
+- Precision Experimental Protocol for Testing Residual Force Signatures in Asymmetric Nonequilibrium Electromagnetic Systems — DOI: 10.5281/zenodo.19984727
+
+### Canonical Scaling Framework
+
+- Toward a Canonical Residual–Force Scaling Law for Coherent Nonequilibrium Electromagnetic Systems — DOI: 10.5281/zenodo.20072222
+
+---
+
+## 📊 Diagnostic & Scaling Infrastructure
+
+The EVRT framework includes structured diagnostic and scaling-analysis infrastructure supporting:
+
+- artifact probability classification
+- noise-floor comparison analysis
+- uncertainty-budget visualization
+- residual-force scaling laws
+- signal-to-noise parameter studies
+- effective susceptibility constraint mapping
+
+Representative diagnostics include:
+
+- `artifact_probability_heatmap.png`
+- `noise_floor_comparison.png`
+- `uncertainty_budget_chart.png`
+- `signal_to_noise_vs_q.png`
+- `chi_eff_bounds_map.png`
+
+These assets support uncertainty-aware residual-force interpretation and reproducible metrology workflows.
+
+---
+
+## 📡 Current Experimental Status
+
+At present, no experimentally verified residual-force effect has been established within the EVRT framework.
+
+Current investigations are focused on:
+
+- sensitivity-limited metrology
+- artifact discrimination
+- uncertainty reduction
+- scaling-law validation
+- reproducibility architectures
+- parameter-bound refinement
+
+Null results remain scientifically meaningful because they constrain possible EVRT-like response amplitudes and guide future experimental design.
+
+---
+
+## 🧪 Reproducibility
+
+Simulations, analysis tools, and experimental packages are provided to explore parameter bounds, qualitative behavior, and controlled null-test workflows.
+
+Results are intended for exploratory and phenomenological analysis rather than experimentally calibrated predictive validation.
+
+Example usage:
+
+```bash
+pip install -r requirements.txt
+python simulations/toy_model.py
