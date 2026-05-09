@@ -1,4 +1,4 @@
-![EVRT Cover](figures/evrt_dark_cover.png)
+![EVRT Cover](evrt-research/figures/evrt_dark_cover.png)
 
 <br>
 
