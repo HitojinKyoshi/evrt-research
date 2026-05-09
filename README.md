@@ -1,4 +1,4 @@
-<img src="evrt-research/figures/evrt_dark_cover.png" width="40%">
+<img src="evrt-research/figures/evrt_dark_cover.png" width="50%">
 
 <br>
 
