@@ -1,4 +1,4 @@
-![EVRT Cover](evrt-research/figures/evrt_dark_cover.png)
+<img src="evrt-research/figures/evrt_dark_cover.png" width="60%">
 
 <br>
 
