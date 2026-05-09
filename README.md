@@ -1,140 +1,125 @@
-# EVRT Precision Residual-Force Null-Test Package v1.0
+# EVRT Research Framework
 
-## Reproducibility-Oriented Experimental Metrology Framework
+## Emergent Vacuum Response Theory (EVRT)
+
+### Structured Phenomenological Metrology and Reproducibility Framework
 
 ---
 
 # Overview
 
-The EVRT Precision Residual-Force Null-Test Package v1.0 is a reproducibility-oriented experimental framework developed for precision residual-force metrology in asymmetric nonequilibrium electromagnetic systems.
+The EVRT Research Framework is an open scientific research program investigating candidate nonequilibrium electromagnetic response behavior under precision metrology conditions.
 
-The package provides a structured experimental architecture emphasizing:
+The framework evolved from early phenomenological investigations toward increasingly structured approaches emphasizing:
 
 * uncertainty-aware diagnostics
 * calibration discipline
 * systematic artifact discrimination
-* reproducibility-oriented methodology
-* conservative interpretation of residual signatures
-* null-result scientific value
+* simulation-guided analysis
+* canonical scaling architectures
+* reproducibility-oriented experimentation
+* conservative scientific interpretation
 
-The framework is designed as a **null-test-first metrology platform** rather than a propulsion or anomalous-force claim system.
-
-Its purpose is to investigate whether candidate residual-force signatures remain after known environmental, thermal, electromagnetic, electrostatic, vibrational, and instrumentation artifacts are independently constrained.
-
----
-
-# Scientific Position
-
-This framework does **not** claim:
-
-* antigravity
-* reactionless propulsion
-* vacuum-energy extraction
-* experimentally verified anomalous-force phenomena
-* violation of conservation laws
-
-Instead, the package defines a controlled methodology for investigating candidate nonequilibrium electromagnetic response behavior under precision experimental conditions.
-
-Null results are considered scientifically meaningful because they constrain candidate EVRT-like response amplitudes and improve future metrology workflows.
+Rather than presenting claims of verified anomalous propulsion or violations of established physical laws, EVRT is structured as a constrained and falsifiability-oriented framework focused on residual-force metrology and controlled experimental methodology.
 
 ---
 
-# Core Experimental Objectives
+# Framework Philosophy
 
-The package is designed to support:
+The EVRT framework is built around several core principles:
+
+* falsifiability
+* conservation-law consistency
+* parameter-bound analysis
+* reproducibility
+* uncertainty accounting
+* experimental restraint
+* systematic artifact rejection
+
+The framework treats null results as scientifically meaningful because they constrain candidate EVRT-like response amplitudes and improve future precision metrology workflows.
+
+---
+
+# Core Research Areas
+
+The EVRT program currently focuses on:
+
+## Foundational Theory
+
+Phenomenological modeling of coherent nonequilibrium electromagnetic systems and candidate residual-force behavior.
+
+## Constraint and Validation
+
+Development of uncertainty-aware diagnostics, parameter bounds, control methodologies, and null-hypothesis stress testing.
+
+## Simulation and Modeling
+
+Finite-element analysis, scaling investigations, residual-force sensitivity studies, and simulation-guided experimental workflows.
+
+## Experimental Metrology
+
+Precision torsion-balance architectures, calibration methodologies, residual classification systems, and reproducibility-oriented testing infrastructure.
+
+## Canonical Scaling Frameworks
+
+Development of structured residual-force scaling relationships and parameter-space evaluation methodologies.
+
+---
+
+# Experimental Infrastructure
+
+The framework includes reproducibility-oriented experimental packages supporting:
 
 * torsion-balance residual-force testing
-* baseline noise-floor characterization
-* uncertainty-budget estimation
-* artifact classification
 * calibration workflows
-* reproducibility-oriented experimental controls
-* structured residual analysis
-* conservative signal interpretation
+* noise-floor characterization
+* uncertainty-budget analysis
+* artifact classification
+* control methodologies
+* residual-force diagnostics
+* structured reporting systems
+
+These experimental packages are designed as conservative null-test-first metrology platforms emphasizing disciplined experimental methodology rather than extraordinary claims.
 
 ---
 
 # Repository Structure
 
-| Directory      | Purpose                                                      |
-| -------------- | ------------------------------------------------------------ |
-| `protocol/`    | Experimental procedures and run workflows                    |
-| `apparatus/`   | Geometry, apparatus layout, and build documentation          |
-| `calibration/` | Calibration and sensitivity characterization                 |
-| `controls/`    | Artifact-discrimination and control procedures               |
-| `analysis/`    | Residual-force analysis and uncertainty tools                |
-| `data/`        | Templates, sample outputs, and experimental datasets         |
-| `figures/`     | Apparatus diagrams, diagnostics, and workflow visualizations |
-| `results/`     | Residual classification and reporting templates              |
-| `docs/`        | Supporting framework documentation                           |
+| Directory                | Purpose                                          |
+| ------------------------ | ------------------------------------------------ |
+| `papers/`                | EVRT publications and theoretical papers         |
+| `experimental_packages/` | Reproducibility-oriented experimental frameworks |
+| `analysis/`              | Residual-force analysis and uncertainty tools    |
+| `data/`                  | Datasets, templates, and generated outputs       |
+| `figures/`               | Framework graphics and diagnostic visualizations |
+| `workflow/`              | Experimental and framework process architecture  |
+| `docs/`                  | Supporting framework documentation               |
+| `simulations/`           | Numerical modeling and simulation tools          |
 
 ---
 
-# Included Experimental Assets
+# Current Experimental Status
 
-The package includes:
+Current EVRT experimental efforts emphasize:
 
-* apparatus diagrams
-* calibration geometry visualizations
-* experimental workflow diagrams
-* uncertainty-budget graphics
-* noise-floor comparison figures
-* artifact probability heatmaps
-* sample CSV datasets
-* null-result report templates
-* reproducibility checklists
-* residual classification workflows
+* precision residual-force null testing
+* environmental-noise characterization
+* calibration refinement
+* uncertainty reduction
+* artifact discrimination
+* reproducibility-oriented diagnostics
 
----
-
-# Experimental Workflow
-
-Typical workflow sequence:
-
-1. Apparatus setup and balancing
-2. Laser alignment and calibration
-3. Baseline drift characterization
-4. Dummy-load control testing
-5. Polarity-reversal testing
-6. Geometry-reversal testing
-7. Powered experimental runs
-8. Noise-floor comparison
-9. Residual classification
-10. Reporting and uncertainty analysis
-
----
-
-# Reproducibility Philosophy
-
-The framework prioritizes:
-
-* falsifiability
-* conservation-law consistency
-* uncertainty accounting
-* artifact rejection
-* calibration discipline
-* reproducibility
-* conservative scientific interpretation
-
-Candidate residual-force observations are considered meaningful only if they survive:
-
-* baseline comparison
-* control substitution
-* geometry reversal
-* polarity reversal
-* environmental stability checks
-* uncertainty-threshold analysis
-* repeatability testing
+No experimentally verified anomalous-force or propulsion effect is currently claimed by the framework.
 
 ---
 
 # Current Limitations
 
-Current limitations include:
+Current framework limitations include:
 
 * sensitivity constraints
 * environmental coupling
-* limited voltage regime
+* limited voltage regimes
 * non-vacuum operation
 * absence of independent replication
 * exploratory experimental scale
@@ -143,16 +128,26 @@ These limitations are treated as active areas for future refinement rather than 
 
 ---
 
-# Intended Use
+# Reproducibility Philosophy
 
-This package is intended for:
+The EVRT framework prioritizes:
 
-* experimental metrology development
-* reproducibility-oriented research
-* diagnostic workflow testing
-* uncertainty-analysis methodology
-* simulation-guided experimentation
-* educational and exploratory laboratory investigations
+* transparent methodology
+* structured documentation
+* operational reproducibility
+* conservative interpretation
+* calibration-first experimentation
+* systematic control testing
+
+Candidate residual-force observations are considered meaningful only if they survive:
+
+* baseline comparison
+* control substitution
+* polarity reversal
+* geometry reversal
+* environmental stability analysis
+* uncertainty-threshold evaluation
+* repeatability testing
 
 ---
 
@@ -161,40 +156,51 @@ This package is intended for:
 Current status:
 
 ```text
-Structured reproducibility-oriented experimental metrology framework
-for residual-force null testing in coherent nonequilibrium
-electromagnetic systems.
+Structured phenomenological metrology and reproducibility-oriented
+research framework for investigating candidate nonequilibrium
+electromagnetic response behavior under controlled experimental conditions.
 ```
+
+---
+
+# Intended Use
+
+The EVRT Research Framework is intended for:
+
+* exploratory metrology research
+* simulation-guided experimentation
+* uncertainty-analysis development
+* residual-force diagnostics
+* reproducibility-oriented methodology
+* educational and experimental investigations
 
 ---
 
 # License
 
-This package is distributed under the MIT License unless otherwise noted.
+This repository is distributed under the MIT License unless otherwise noted.
 
 ---
 
 # Citation
 
-If using this package or associated EVRT materials, please cite:
+If using EVRT framework materials, please cite:
 
-* the EVRT research framework repository
+* the EVRT research repository
 * associated Zenodo archival releases
-* package version documentation
-* relevant experimental methodology papers
+* relevant framework publications
+* experimental package documentation
 
 ---
 
-# EVRT Research Framework
+# Scientific Position
 
-Emergent Vacuum Response Theory (EVRT) is a constrained phenomenological research framework investigating candidate nonequilibrium electromagnetic response behavior under precision metrology conditions.
+The EVRT framework does not claim:
 
-The broader EVRT program emphasizes:
+* antigravity
+* reactionless propulsion
+* vacuum-energy extraction
+* experimentally verified anomalous-force phenomena
+* violations of conservation laws
 
-* falsifiability
-* parameter-bound analysis
-* simulation-guided methodology
-* residual-force metrology
-* uncertainty-aware diagnostics
-* reproducibility-oriented experimentation
-* conservative scientific interpretation
+Instead, the framework provides a structured methodology for investigating candidate residual-force behavior under conservative experimental and metrological conditions.
