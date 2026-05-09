@@ -1,4 +1,0 @@
-timestamp_s,voltage_V,current_A,laser_displacement_mm,notes
-0,0,0,0.01,baseline stable
-60,0,0,0.02,minor drift
-120,0,0,0.01,no significant motion
