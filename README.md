@@ -16,7 +16,9 @@ A constrained phenomenological research framework investigating whether structur
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Framework](https://img.shields.io/badge/EVRT-v3.1-important)
-![Experimental Package](https://img.shields.io/badge/null--test-package-v1.0-success)
+![GitHub views](https://komarev.com/ghpvc/?username=HitojinKyoshi&repo=evrt-research&label=Repository%20Views&color=blue)
+
+</p>
 
 </p>
 
